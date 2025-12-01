@@ -63,7 +63,7 @@ const App = () => {
           {/* Header */}
           <div className="bg-[#ff90e8] border-b-4 border-black p-6 flex items-center justify-between">
             <h1 className="text-3xl font-black uppercase tracking-tighter italic">
-              Future<span className="text-white">Cast</span>
+              WHATDAYIS<span className="text-white">IT</span>
             </h1>
             <Zap className="w-8 h-8 fill-yellow-400 stroke-black stroke-2" />
           </div>
