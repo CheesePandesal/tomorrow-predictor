@@ -1,16 +1,63 @@
-# React + Vite
+# whatdayisit 🔮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The world's first predictive temporal engine powered by Artificial Intuition™.**
 
-Currently, two official plugins are available:
+![What Day Is It App Screenshot](.src/assets/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> "I used to wake up not knowing if tomorrow was Saturday or Tuesday. `whatdayisit` solved that using advanced computational logic." — *A Satisfied Human*
 
-## React Compiler
+---
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+### 🚀 About The Project
 
-## Expanding the ESLint configuration
+In an era of uncertainty, the human cortex struggles to process the linear progression of the Gregorian calendar. We asked ourselves: *Is there a way to use billions of transistor gates to calculate exactly what comes after today?*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+After minutes of intense R&D, we created **whatdayisit**.
+
+Using a proprietary algorithm known as `CurrentTime + 24 Hours`, our Artificial Intuition (AI) analyzes the rotation of the Earth to deliver a prediction of tomorrow's day with **near 100% accuracy**.*
+
+### ✨ Key Features
+
+* **Deep Learning? No.** We use **Deep Looking** at the system clock.
+* **Zero-Latency Predictions:** Knowing the future has never been this instant.
+* **Minimalist UI:** We removed all distractions so you can focus on the word "Thursday."
+* **Eco-Friendly:** Consumes slightly less energy than a Bitcoin mining rig.
+
+### 🛠️ Installation
+
+To harness this power on your local machine, you will need Node.js and a sense of humor.
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/yourusername/whatdayisit.git](https://github.com/yourusername/whatdayisit.git)](https://github.com/CheesePandesal/tomorrow-predictor.git)
+    ```
+
+2.  **Install the dependencies** (Downloading the heavy math libraries)
+    ```bash
+    cd tomorrow-predictor
+    npm install
+    ```
+
+3.  **Ignite the Artificial Intuition**
+    ```bash
+    npm start
+    ```
+
+Open [http://localhost:3000](http://localhost:3000) to view your future.
+
+### 🧮 How It Works
+
+While our source code is open, the logic is proprietary. However, here is a simplified representation of the complex math happening in the background:
+
+$$Day_{tomorrow} = Day_{today} + 1$$
+
+### 🤝 Contributing
+
+If you discover a bug where Tuesday is followed by Thursday, please open a high-priority issue immediately as this indicates a rift in the space-time continuum.
+
+### 📝 License
+
+Distributed under the MIT License. Use this power responsibly.
+
+---
+*\*Accuracy implies you are not currently crossing the International Date Line.*
