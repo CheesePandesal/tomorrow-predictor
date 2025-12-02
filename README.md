@@ -2,7 +2,7 @@
 
 **The world's first predictive temporal engine powered by Artificial Intuition™.**
 
-![What Day Is It App Screenshot](.src/assets/screenshot.png)
+![What Day Is It App Screenshot](src/assets/screenshot.png)
 
 > "I used to wake up not knowing if tomorrow was Saturday or Tuesday. `whatdayisit` solved that using advanced computational logic." — *A Satisfied Human*
 
