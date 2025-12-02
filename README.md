@@ -27,12 +27,12 @@ To harness this power on your local machine, you will need Node.js and a sense o
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/whatdayisit.git](https://github.com/yourusername/whatdayisit.git)
+    git clone [https://github.com/yourusername/whatdayisit.git](https://github.com/yourusername/whatdayisit.git)](https://github.com/CheesePandesal/tomorrow-predictor.git)
     ```
 
 2.  **Install the dependencies** (Downloading the heavy math libraries)
     ```bash
-    cd whatdayisit
+    cd tomorrow-predictor
     npm install
     ```
 
